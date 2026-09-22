@@ -73,10 +73,12 @@
       .then(data => {
         const list = document.getElementById("fileList");
         const pathDiv = document.getElementById("path");
+        const pageTitle = document.getElementById("pageTitle");
         
         list.innerHTML = "";
         const displayPath = path ? "/" + path : "/";
         pathDiv.textContent = displayPath;
+        pageTitle.textContent = "Index of TheArvorIndex/repo-arvorlinux-1" + (path ? "/" + path : "");
 
         if (path) {
           const li = document.createElement("li");
