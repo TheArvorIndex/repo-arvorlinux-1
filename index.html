@@ -63,7 +63,7 @@
 <script>
   const user = "thearvorindex"; 
   const repo = "repo-arvorlinux-1"; 
-  const ignoredFiles = ["index.html", "arv.png",".github"];
+  const ignoredFiles = ["index.html", "arv.png", ".github"];
   let currentPath = "";
 
   function loadFiles(path) {
@@ -73,12 +73,10 @@
       .then(data => {
         const list = document.getElementById("fileList");
         const pathDiv = document.getElementById("path");
-        const pageTitle = document.getElementById("pageTitle");
         
         list.innerHTML = "";
         const displayPath = path ? "/" + path : "/";
         pathDiv.textContent = displayPath;
-        pageTitle.textContent = "Index of " + displayPath;
 
         if (path) {
           const li = document.createElement("li");
