@@ -20,16 +20,16 @@ sha256 : 5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
 deb : xpadneo-dkms-0.9.8_amd64.deb
 }
 name : nsm
-sha256 : b6c5c574056e60cf225ff9e0a89efb94d8106413f08d6a90a355d2a786a5944e
-deb : nsm_8_amd64.deb
+sha256 : 56d7a9f01a09c9a011d6880a95499b6aa339db94c5cb1277d10cf6b7f1819fe9
+deb : nsm_8.1_amd64.deb
 }
 name : weld
 sha256 : cfc29a84adbda7ef8b3441a769e1971839a68d77fbb2de11b7c2db9346b7ecd4
 deb : weld_4.2_amd64.deb
 }
 name : lxsm
-sha256 : 1144c63c3397bf66cd323d02f46399dbf2c0110f946edf63844da9e8c79e19fc
-deb : lxsm_8_amd64.deb
+sha256 : ebd0c76fb97876ac11312a57accee3de25991695ac34b3665a5ccd84810709f0
+deb : lxsm_8.1_amd64.deb
 }
 name : issue-files
 sha256 : 8ef7574b7fda81241e0cbeb5be08cb0c7d979b8dd8e58acf4174170815d3fff5
