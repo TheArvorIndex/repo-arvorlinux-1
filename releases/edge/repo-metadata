@@ -24,7 +24,7 @@ sha256 : 56d7a9f01a09c9a011d6880a95499b6aa339db94c5cb1277d10cf6b7f1819fe9
 deb : nsm_8.1_amd64.deb
 }
 name : weld
-sha256 : cfc29a84adbda7ef8b3441a769e1971839a68d77fbb2de11b7c2db9346b7ecd4
+sha256 : e5cf18a7cf89017de711780c1c2e9ab1864ee613e4beea439bbfe0326ac0f9dc
 deb : weld_4.2_amd64.deb
 }
 name : lxsm
