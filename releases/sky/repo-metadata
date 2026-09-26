@@ -32,8 +32,8 @@ sha256 : ebd0c76fb97876ac11312a57accee3de25991695ac34b3665a5ccd84810709f0
 deb : lxsm_8.1_amd64.deb
 }
 name : issue-files
-sha256 : 8ef7574b7fda81241e0cbeb5be08cb0c7d979b8dd8e58acf4174170815d3fff5
-deb : issue-files_8.1_amd64.deb
+sha256 : fb672a21e5c0ff85ff94c4f741b444ab91ea221a647e0503d5dc320eb0c5c702
+deb : issue-files_8.2_amd64.deb
 }
 [pkgs_fn]
 
