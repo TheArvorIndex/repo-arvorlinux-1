@@ -1,0 +1,55 @@
+[repoinfo_st]
+}
+name : Edge
+maintainer : NextFerret
+}
+[repoinfo_fn]
+
+[pkgs_st]
+}
+name : ryzenadj
+sha256 : 139db7cda698c2169ff34d14d813a2ec084768dad173841c5676cec1b2a26878
+deb : ryzenadj_0.17.0_amd64.deb
+}
+name : tocafetch
+sha256 : 8c04f8c7f7fe2502b6779beead52634c35f72097dc596cec3d77acf6289b0b2f
+deb : tocafetch_3.1-1_amd64.deb
+}
+name : xpadneo
+sha256 : 5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
+deb : xpadneo-dkms-0.9.8_amd64.deb
+}
+name : nsm
+sha256 : 56d7a9f01a09c9a011d6880a95499b6aa339db94c5cb1277d10cf6b7f1819fe9
+deb : nsm_8.1_amd64.deb
+}
+name : weld
+sha256 : f43e106df4ad918f2bdef2af3bd123ed9f01142da390dca4cebecfebc7bb6b55
+deb : weld_4.3_amd64.deb
+}
+name : lxsm
+sha256 : ebd0c76fb97876ac11312a57accee3de25991695ac34b3665a5ccd84810709f0
+deb : lxsm_8.1_amd64.deb
+}
+name : issue-files
+sha256 : 8ef7574b7fda81241e0cbeb5be08cb0c7d979b8dd8e58acf4174170815d3fff5
+deb : issue-files_8.1_amd64.deb
+}
+[pkgs_fn]
+
+[replaces_st]
+}
+[replaces_fn]
+
+[required_st]
+}
+name : nsm
+}
+name : weld
+}
+name : lxsm
+}
+name : issue-files
+}
+[required_fn]
+
