@@ -1,0 +1,55 @@
+[repoinfo_st]
+}
+name : Fuse Blown
+maintainer : NextFerret
+}
+[repoinfo_fn]
+
+[pkgs_st]
+}
+name : ryzenadj
+sha256 : 139db7cda698c2169ff34d14d813a2ec084768dad173841c5676cec1b2a26878
+deb : ryzenadj_0.17.0_amd64.deb
+}
+name : tocafetch
+sha256 : 8c04f8c7f7fe2502b6779beead52634c35f72097dc596cec3d77acf6289b0b2f
+deb : tocafetch_3.1-1_amd64.deb
+}
+name : xpadneo
+sha256 : 5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
+deb : xpadneo-dkms-0.9.8_amd64.deb
+}
+name : nsm
+sha256 : 56d7a9f01a09c9a011d6880a95499b6aa339db94c5cb1277d10cf6b7f1819fe9
+deb : nsm_8.1_amd64.deb
+}
+name : weld
+sha256 : 38bf0f1e253cb4c46f559a512e7fe13da9382b24b396f8625c291fc6fb577120	
+deb : weld_4.4_amd64.deb
+}
+name : nflxs
+sha256 : 17e3ce2e1d8e08c8f1eb7b79c6a14c18f5fa77c3c0ef8969b28820bfe55ccfef
+deb : nflxs_0.28_amd64.deb
+}
+name : issue-files
+sha256 : ccba7c4f55318ccee76187285cba20cc89a880b74410dbebc75e5669b0bf4776
+deb : issue-files_9.1_amd64.deb
+}
+[pkgs_fn]
+
+[replaces_st]
+}
+[replaces_fn]
+
+[required_st]
+}
+name : nsm
+}
+name : weld
+}
+name : nflxs
+}
+name : issue-files
+}
+[required_fn]
+
