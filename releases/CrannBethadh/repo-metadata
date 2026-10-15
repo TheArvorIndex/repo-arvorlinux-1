@@ -24,7 +24,7 @@ sha256 : 56d7a9f01a09c9a011d6880a95499b6aa339db94c5cb1277d10cf6b7f1819fe9
 deb : nsm_8.1_amd64.deb
 }
 name : weld
-sha256 : e9d7c7e1521c85821d1c945659477bdabfebae46f3f7783942a7e188caaa9e94	
+sha256 : 24078feaa8e6410b03c9488d6c62bc91a2b3df37c4fa308c9925c7efc6002006
 deb : weld_5.0_amd64.deb
 }
 name : nflxs
