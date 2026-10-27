@@ -35,6 +35,10 @@ name : issue-files
 sha256 : 6c3166d9c622689ac6d7fc2bf13727ecfc7276a6163c544329b3cbe171878f3c 
 deb : issue-files_10.1_amd64.deb
 }
+name : weld-declarationd
+sha256 : 64d269bf7e18edb7bd19ff466c1204a16d52f883f1486215eae155d6c6bf055a
+deb : weld-declarationd_0.26_amd64.deb
+}
 [pkgs_fn]
 
 [replaces_st]
