@@ -1,7 +1,7 @@
 [repoinfo_st]
 }
-name : Crann Bethadh
-maintainer : NextFerret
+name : Monster
+maintainer : NextFerret Labs / NextFerret
 }
 [repoinfo_fn]
 
@@ -20,11 +20,11 @@ sha256 : 5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
 deb : xpadneo-dkms-0.9.8_amd64.deb
 }
 name : nsm
-sha256 : 56d7a9f01a09c9a011d6880a95499b6aa339db94c5cb1277d10cf6b7f1819fe9
-deb : nsm_8.1_amd64.deb
+sha256 : f72a9484fbc3638150299e8b2d12bcf81c828579aac957738909073cac1364db
+deb : nsm_9_amd64.deb
 }
 name : weld
-sha256 : 4936629c1506268e4f92d891bd8bf95a222b75417803ed799ed97da62715b07d
+sha256 : 0214ff46ff48900aaf888c13ab7360ce7c7c25235eb65b62d62c25bd740c680d
 deb : weld_6_amd64.deb
 }
 name : nflxs
