@@ -32,7 +32,7 @@ sha256 : ea37b4f54ea14ac0330d6768b17a63822df929784d3d19b9a9c4a796a81650d7
 deb : nflxs_0.28-1_amd64.deb
 }
 name : issue-files
-sha256 : b246011ddc186690d2fb66c16cb2bc9938d7267907db5ba2167e3823740128b8
+sha256 : 718cbd6bdb49c7ca315ebc254880604992f176ad6c881e01bf9da64bbb31e40a
 deb : issue-files_10.1_amd64.deb
 }
 [pkgs_fn]
