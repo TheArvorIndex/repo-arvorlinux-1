@@ -24,7 +24,7 @@ sha256 : f72a9484fbc3638150299e8b2d12bcf81c828579aac957738909073cac1364db
 deb : nsm_9_amd64.deb
 }
 name : weld
-sha256 : 626f2df27924c2eabf2638e91f86d9ad72b3598e17a4b19f330d40cf6a5637f0
+sha256 : b640d1935fb2df5dbb3e03186e27a5f2dc0708475a28fd8c370479104102b5c5
 deb : weld_6_amd64.deb
 }
 name : nflxs
@@ -34,10 +34,6 @@ deb : nflxs_0.28-1_amd64.deb
 name : issue-files
 sha256 : 6c3166d9c622689ac6d7fc2bf13727ecfc7276a6163c544329b3cbe171878f3c 
 deb : issue-files_10.1_amd64.deb
-}
-name : weld-declarationd
-sha256 : 9913875063f7f0798293c57cab1a1d992e342b1e4cda476911b09f7deb51c670
-deb :  weld-declarationd_0.26_amd64.deb
 }
 [pkgs_fn]
 
@@ -54,7 +50,5 @@ name : weld
 name : nflxs
 }
 name : issue-files
-}
-name : weld-declarationd
 }
 [required_fn]
