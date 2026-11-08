@@ -35,6 +35,10 @@ name : issue-files
 sha256 : 20d20a7ac823bde405e25b7fe30de09f56f47a4c8f522ae9888a2d024b2264c7
 deb : issue-files_11_amd64.deb
 }
+name : arvor-plymouth-theme
+sha256 : c6a4b5a5ebe7bc4724d0471972b258c362dc6eada4cd7bb3113c365c3ec0b0a3
+deb : arvor-plymouth-theme_0.1.26_all.deb
+}
 [pkgs_fn]
 
 [replaces_st]
@@ -50,5 +54,7 @@ name : weld
 name : nflxs
 }
 name : issue-files
+}
+name : arvor-plymouth-theme
 }
 [required_fn]
