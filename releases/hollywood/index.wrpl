@@ -47,7 +47,7 @@ required : true
 
 {
 group issue-files
-sha256 : dca30210019d222850e0b68889fefb0ab9ecee8eba3fbfdcf9fba07ffe395cf9
+sha256 : c407ee80f1bfdac3526353b9b0079219d179eb94cab91dea63e2078b724806a7
 deb : issue-files_11.1_amd64.deb
 required : true
 }
