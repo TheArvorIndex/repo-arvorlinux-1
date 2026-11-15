@@ -1,0 +1,62 @@
+index.start
+
+{
+group index
+repository_name : Hollywood
+maintainer : NextFerret Labs / NextFerret
+}
+
+{
+group ryzenadj
+sha256 : 139db7cda698c2169ff34d14d813a2ec084768dad173841c5676cec1b2a26878
+deb : ryzenadj_0.17.0_amd64.deb
+}
+
+{
+group tocafetch
+sha256 : 8c04f8c7f7fe2502b6779beead52634c35f72097dc596cec3d77acf6289b0b2f
+deb : tocafetch_3.1-1_amd64.deb
+}
+
+{
+group xpadneo
+sha256 : 5aeee4d775ec81783b17784772f4567da2d3eeb0a562f46f389db348088fce7c
+deb : xpadneo-dkms-0.9.8_amd64.deb
+}
+
+{
+group nsm
+sha256 : 773c3149fd102bd35b979b869311f89e2f59765ace5ab08d32d41a1d509581f1
+deb : nsm_11.1_amd64.deb
+required : true
+}
+
+{
+group weld
+sha256 : 4bf7994f18affb483a3f4906db3d078666d15e274471897cdd5d7df5d3f8ba95
+deb : weld_6.2.0_amd64.deb
+required : true
+}
+
+{
+group nflxs
+sha256 : ea37b4f54ea14ac0330d6768b17a63822df929784d3d19b9a9c4a796a81650d7
+deb : nflxs_0.28-1_amd64.deb
+required : true
+}
+
+{
+group issue-files
+sha256 : dca30210019d222850e0b68889fefb0ab9ecee8eba3fbfdcf9fba07ffe395cf9
+deb : issue-files_11.1_amd64.deb
+required : true
+}
+
+{
+group arvor-plymouth-theme
+sha256 : 6f2359653fbce3a20f672aae4df1160339b87d71d7bbd6f6c44d53b3cdb31693 
+deb : arvor-plymouth-theme_0.1.27_all.deb
+required : true
+}
+
+index.end
