@@ -32,7 +32,7 @@ sha256 : ea37b4f54ea14ac0330d6768b17a63822df929784d3d19b9a9c4a796a81650d7
 deb : nflxs_0.28-1_amd64.deb
 }
 name : issue-files
-sha256 : dca30210019d222850e0b68889fefb0ab9ecee8eba3fbfdcf9fba07ffe395cf9
+sha256 : c407ee80f1bfdac3526353b9b0079219d179eb94cab91dea63e2078b724806a7
 deb : issue-files_11.1_amd64.deb
 }
 name : arvor-plymouth-theme
