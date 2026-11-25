@@ -61,7 +61,7 @@ required : true
 
 {
 group ssvm
-sha256 : ad3d6698dac87d8f282f9867f671a76e5893e3a403125d75aed044dd89d8fa17
+sha256 : b75ea8dc2016ab0dc94dbba68bb2d65c669c84341ee5f5093df80121eaffec21
 deb : ssvm_1.4-1_amd64.deb
 }
 
