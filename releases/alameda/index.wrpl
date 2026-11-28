@@ -33,8 +33,8 @@ required : true
 
 {
 group weld
-sha256 : 715b1cd146ab41d523c40f35681fa3038887dc437ff7af8bae1e4954383c31f3 
-deb : weld_6.2.0_amd64.deb
+sha256 : 39e569d9447e0bd6905110180c7e1edcc2d86bb404762ef48265546bf74ecdb8
+deb : weld_6.3.0_amd64.deb
 required : true
 }
 
